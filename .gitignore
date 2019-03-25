@@ -7,5 +7,3 @@ target/*
 *.iml
 *.tmp
 
-src/main/resources/
-src/test/
